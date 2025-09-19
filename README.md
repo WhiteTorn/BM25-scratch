@@ -1,5 +1,5 @@
 
-
+First you need to calculate scores for the words in each document.
 
 
 
